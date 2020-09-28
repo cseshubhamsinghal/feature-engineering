@@ -1,2 +1,2 @@
 # feature-engineering
-feature engineering is to clean and enrich the data in order to make analysis
+feature engineering is required in order to clean and enrich the data to make analysis
